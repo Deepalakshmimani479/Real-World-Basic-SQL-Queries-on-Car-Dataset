@@ -1,0 +1,21 @@
+vehicle_id,vin,make,model,year,fuel_type
+V3,VIN003,Ford,Focus,2021,Diesel
+V8,VIN008,Honda,Civic,2022,Petrol
+V12,VIN012,Hyundai,Creta,2020,Diesel
+V25,VIN025,Tesla,Model 3,2023,Electric
+V29,VIN029,Toyota,Corolla,2021,Petrol
+V33,VIN033,Maruti,Swift,2019,Petrol
+V44,VIN044,Nissan,Sunny,2020,Petrol
+V57,VIN057,Kia,Seltos,2022,Diesel
+V61,VIN061,Renault,Kwid,2021,Petrol
+V72,VIN072,Skoda,Rapid,2022,Diesel
+V85,VIN085,Ford,Ecosport,2020,Petrol
+V93,VIN093,Hyundai,Venue,2021,Petrol
+V101,VIN101,Tata,Nexon,2023,Petrol
+V115,VIN115,Toyota,Innova,2019,Diesel
+V126,VIN126,Volkswagen,Polo,2020,Petrol
+V134,VIN134,MG,Hector,2022,Diesel
+V148,VIN148,Jeep,Compass,2021,Diesel
+V161,VIN161,Maruti,Baleno,2020,Petrol
+V174,VIN174,Nissan,Kicks,2022,Petrol
+V198,VIN198,Tesla,Model Y,2023,Electric
